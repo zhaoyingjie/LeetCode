@@ -4,3 +4,4 @@ a.out
 *CMake*
 *.xml
 *.iml
+.idea
