@@ -1,0 +1,6 @@
+*.vscode
+*.DS_Store
+a.out
+*CMake*
+*.xml
+*.iml
